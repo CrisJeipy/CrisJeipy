@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" background-color: rgb(82, 24, 136)>
     <h1 font-family="'Times New Roman', Times, serif">Hola, soy Cris</h1>
 </div>
 <img src="https://www.bwallpaperhd.com/wp-content/uploads/2018/09/GustavKlimt.jpg" alt="">
