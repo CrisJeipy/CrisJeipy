@@ -1,5 +1,5 @@
-<div align="center" width='400px'>
-    <h1 font-family="'Times New Roman', Times, serif" background-color: rgb(82, 24, 136)>Hola, soy Cris</h1>
+<div align="center">
+    <h1 font-family="'Times New Roman', Times, serif" font-size='40px'>Hola, soy Cris</h1>
 </div>
 <img src="https://www.bwallpaperhd.com/wp-content/uploads/2018/09/GustavKlimt.jpg" alt="">
 
