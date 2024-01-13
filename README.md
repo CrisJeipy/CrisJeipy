@@ -1,5 +1,11 @@
 ###  Hola, soy Cristian Cordero 👋
 <img src="https://www.bwallpaperhd.com/wp-content/uploads/2018/09/GustavKlimt.jpg" alt="">
+
+    <style>
+        img {
+            border-radius: 100px;
+        }
+    </style>
 <!--
 **CrisJeipy/CrisJeipy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
